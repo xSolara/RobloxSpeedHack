@@ -1,4 +1,4 @@
--- Ölünce Butonlar Koy Olur o Tekrar Execute yap Ölünce
+-- Ölünce Butonlar Yok olur Tekrar Execute yap Ölünce
 -- If you die the buttons disappears Execute Again when you are dead
 
 local plr = game.Players.LocalPlayer
@@ -48,5 +48,5 @@ if Humanoid.Health == 0 then
 ScreenGui:Destroy()
 end
 end
--- Ölünce Butonlar Koy Olur o Tekrar Execute yap Ölünce
+-- Ölünce Butonlar Yok Olur Tekrar Execute yap Ölünce
 -- If you die the buttons disappears Execute Again when you are dead
